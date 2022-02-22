@@ -8,7 +8,7 @@ Reactjs and Nextjs are the frameworks I prefer. I've build also an App in Google
 
 > ***[Check it here](https://play.google.com/store/apps/details?id=com.kontopodis.UltraLists)***
 
-My Web Site is [here](https://manuels-journal.com) -> Nextjs project
+My Web Site is [manuels-journal.com](https://manuels-journal.com) -> Nextjs project
 
 MinesSweaper is [here](https://manuels-journal.com/games/minesweaper/index.html)
 
