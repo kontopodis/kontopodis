@@ -10,5 +10,4 @@ Reactjs and Nextjs are the frameworks I prefer. I've build also an App in Google
 
 My Web Site is [manuels-journal.com](https://manuels-journal.com) -> Nextjs project
 
-MinesSweaper is [here](https://manuels-journal.com/games/minesweaper/index.html)
 
